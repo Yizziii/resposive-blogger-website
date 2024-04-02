@@ -10,7 +10,7 @@ html, body{
 
 :root{
     /*  Theme colors */
-    --text-gray:#3f4954;
+    --text-gray:#4a0109;
     --text-light:#686666da;
     --bg-color:#0e001c;
     --white:#ffffff;
@@ -42,7 +42,7 @@ ul{
 
 h1{
     font-family: var(--Lexend);
-    font-size:2.5rem;
+    font-size:1rem;
 }
 
 h2{
@@ -51,7 +51,8 @@ h2{
 
 h3{
     font-family: var(--Abel);
-    font-size: 1.3rem;
+    font-size: 3.5rem;
+     color:var(--text-gray);
 }
 
 button.btn{
